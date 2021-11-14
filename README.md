@@ -2,7 +2,7 @@
 🎯 Bull's Eye is the simple game which is consist in guessing the random number (1 ... 100) by using a slider. 
 
 ## Sample visualization
-![Example screenshot](./gameplay.mp4)
+(./gameplay.mp4)
 
 ## Acknowledgment
 This project was made together with raywenderlich.com 
